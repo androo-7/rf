@@ -7,4 +7,6 @@ usage:
 rf [-h] <file/path/of/dir> <command>
 ```  
 options:  
+```
     -h — show help
+```
