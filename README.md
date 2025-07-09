@@ -9,4 +9,6 @@ rf [-h] <file/path/of/dir> <command>
 options:  
 ```
     -h — show help
-```
+```  
+  
+clone the repo and move the `rf` scrpit into your `~/bin` folder 👍
